@@ -1,4 +1,4 @@
-# Mapping-individual-differences-in-cortical-architecture-using-multi-view-representation-learning
+# Mapping individual differences in cortical architecture using multi-view representation learning
 
 
 ============
