@@ -11,5 +11,5 @@ We proposed a multimodal deep autoencoder (MDAE) framework that allows combining
 MAEs are trainable neural network models for unsupervised learning and dimensionality reduction. 
 
 # Collaborations
-This research work is carried out jointly with [Qarma (Machine Learning Team)] (https://qarma.lis-lab.fr/), LIS laboratory and the [Banco (Neural Bases of Communication) team] (https://neuralbasesofcommunication.eu/) at Institute of Neuroscience of Timone (Institut de Neurosciences de la Timone a.k.a. INT ). This project is funded by Institute of Language, Communication and the Brain (ILCB)
+This research work is carried out jointly with [Qarma: Machine Learning Team] (https://qarma.lis-lab.fr/), LIS laboratory and the [Banco (Neural Bases of Communication) team] (https://neuralbasesofcommunication.eu/) at Institute of Neuroscience of Timone (Institut de Neurosciences de la Timone a.k.a. INT ). This project is funded by Institute of Language, Communication and the Brain (ILCB)
 This project is funded by the [Institute of Language, Communication and the Brain (ILCB)](https://www.ilcb.fr/)
