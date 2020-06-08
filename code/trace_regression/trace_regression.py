@@ -188,6 +188,7 @@ if __name__ == "__main__":
         rsquared.append([r2_score(YT, results[idx[test_index]])])
  
 
+print("mean r squared all subjects {}".format(np.mean([mean_squared_error(Y, results)])))
 print("mean mse {}".format(np.mean([mse])))
 file = "mean_mse.npy"
 np.save(file, np.mean([mse]))
